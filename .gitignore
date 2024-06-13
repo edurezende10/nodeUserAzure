@@ -1,0 +1,21 @@
+# Dependências do Node.js
+node_modules/
+# Diretórios de logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Diretórios de ambiente de desenvolvimento
+.env
+# Diretórios de debug
+.vscode/
+.idea/
+.DS_Store
+# Outras configurações de build
+dist/
+tmp/
+coverage/
+# Arquivos de compilação
+*.out
+*.map
